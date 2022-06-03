@@ -1,0 +1,17 @@
+data:
+  #preguntar por este teesValuee1
+  co.com.invima.procedureonline.echovalue: teestvalue1
+  #DEV
+  SQL_URL: 'jdbc:sqlserver://mi-aeu-sds-dev-mainsqlmidev.public.012e96c5fe26.database.windows.net;database=dbaeusdsdevtransportabilidad'
+  SQL_USERNAME: Usr_ETB_Tramites
+  SQL_PASSWORD: Soaint.June.2022**
+  SQL_SCHEMA: transportabilidad
+
+  #QA
+  #SQL_URL: 'jdbc:sqlserver://172.16.10.202\\SQL_2017;database=maestra'
+  #SQL_USERNAME: usr_tramites
+  #SQL_PASSWORD: usr_tramites*
+  #SQL_SCHEMA: dbo
+
+metadata:
+  name: api-bpm
